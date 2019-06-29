@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+name: Wayne Giboney
+title: Thoughts and ramblings of @wgiboney
+description: A short description of your site's purpose
+logo: /assets/img/favicon.ico
+#show_downloads: "false"
