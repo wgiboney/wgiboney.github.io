@@ -1,6 +1,11 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minima
 name: Wayne Giboney
-title: Thoughts and ramblings of @wgiboney
-description: A short description of your site's purpose
+title: Thoughts and ramblings
+description: Be bold and mighty forces will come to your aid
 logo: /assets/img/favicon.ico
 #show_downloads: "false"
+twitter_username: wgiboney
+#facebook_username:  wgiboney
+linkedin_username:  wayne-giboney-2353341
+instagram_username:  wgiboney
