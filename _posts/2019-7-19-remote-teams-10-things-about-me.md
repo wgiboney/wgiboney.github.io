@@ -7,11 +7,11 @@ I found a post about how remote teams can connect and get to know each other bet
 
 Below are 10 things about me.  Enjoy!
 
-**1.** I have two awesome [kids](../assets/img/h_and_e.jpg) and we enjoy family adventures.  Our current adventure is fostering  some [puppies](../assets/img/puppy_foster.jpg) for a local dog shelter (KCPetProject).  We also have a full time pup by the name of [Rosie](../assets/img/rosie.jpg)
+**1.** I have two awesome [kids](../../../assets/img/h_and_e.jpg) and we enjoy family adventures.  Our current adventure is fostering  some [puppies](../../../assets/img/puppy_foster.jpg) for a local dog shelter (KCPetProject).  We also have a full time pup by the name of [Rosie](../../../assets/img/rosie.jpg)
 
 **2.** I'm a huge fan of music.  I enjoy finding new music and attending concerts in my free time.
 
-**3.** I enjoy collecting quotes.  I find it inspiring and enjoy looking back over them.  Here is [one](../assets/img/quote.png) that I found on an old gas station wall.
+**3.** I enjoy collecting quotes.  I find it inspiring and enjoy looking back over them.  Here is [one](../../../assets/img/quote.png) that I found on an old gas station wall.
 
 **4.** I enjoy exercise and fitness...all kinds.  Most recently, I've completed several triathlons and hoping to get into the Escape from Alcatraz race.
 
