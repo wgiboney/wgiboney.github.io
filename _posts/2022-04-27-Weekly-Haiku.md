@@ -4,7 +4,7 @@ musk just bought twitter
 
 my stocks are in the shitter
 
-but i'm no quiter
+but i'm no quitter
 
 -mwg
 
