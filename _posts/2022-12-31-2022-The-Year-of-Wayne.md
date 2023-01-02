@@ -6,7 +6,7 @@ Some of the highlights were:
 - Memorable Concerts with friends Zach Bryan (twice) the return of Turnpike Troubadours (twice), Wade Bowen, Flatland Carvery, Casey Donahue and the best....Tater and the Gravy Train
 - Experiences, test kitchen (twice!), new cocktail places with friends 
 - Fitness has been awesome this year, I started playing tennis and had my first W in November
-- Celebrated multiple birthday with friends and was surprised by my friends (Bethany, Chad, KO) for my own party!  Such a great memory!
+- Celebrated multiple birthdays with friends and was surprised by my friends (Bethany, Chad, KO) for my own party!  Such a great memory!
 
 
 ![alt text](/assets/img/2022_year_in_review.jpeg "2022 Year of Wayne")
