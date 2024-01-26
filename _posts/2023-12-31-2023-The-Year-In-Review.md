@@ -10,7 +10,7 @@ Some of the highlights were:
 - Experiences: Chiefs Superbowl Run, Superbowl Parade, started playing poker w buddies from work, eating at my first and second Michelin star restaurants, when H & E and I hang out (so good!), Royals Day Game, NFL Draft Experience, Great BDay Dinner, Wine and Horses, Woodside MidSummer, Boulevardia Taps and Tastes, Getting ShoBullVodka.com started, Halloween, Seeing E in Barcelona, Chiefs game in Barcelona, Porchfest   
 
 - Fitness has been awesome this year, more tennis and gym time.  Really enjoy my gym space
-- 
+
 
 ![alt text](/assets/img/2023_year_in_review.jpeg "2023 Year of Wayne")
 
