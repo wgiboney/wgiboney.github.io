@@ -9,3 +9,9 @@ twitter_username: wgiboney
 #facebook_username:  wgiboney
 linkedin_username:  wayne-giboney-2353341
 instagram_username:  wgiboney
+
+
+collections:
+  trips:
+    output: true
+    permalink: /trips/:path/
