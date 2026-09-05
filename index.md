@@ -9,7 +9,7 @@ title: Home
 
 <h2>Latest Posts</h2>
 <ul>
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:15 %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <span> — {{ post.date | date: "%b %d, %Y" }}</span>
