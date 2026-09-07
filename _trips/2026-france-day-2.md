@@ -2,6 +2,7 @@
 title: "France Day 2"
 date: 2026-09-01
 location: "Paris, France"
+photo_folder: Day-02
 ---
 
 
