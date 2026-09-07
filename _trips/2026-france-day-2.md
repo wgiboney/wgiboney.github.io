@@ -9,7 +9,10 @@ photo_folder: Day-2
 ## test
 
 {% assign folder = '/assets/img/2026-france/' | append: page.photo_folder %}
+
+{{ folder }}
 {% for image in site.static_files %}
+{{ image.path }}
 {% if image.path contains folder %}
 {% if image.extname == '.jpeg' or image.extname == '.jpg' or image.extname == '.png' %}
 [![{{ image.name | split: '.' | first }}]({{ image.path }})]({{ image.path }})
