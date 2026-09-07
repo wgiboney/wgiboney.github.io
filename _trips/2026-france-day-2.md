@@ -1,6 +1,6 @@
 ---
-title: "Day 1 – Paris On our own"
-date: 2026-08-31
+title: "Day 2 – Paris On our own"
+date: 2026-09-01
 photo_folder: Day-02
 ---
 
