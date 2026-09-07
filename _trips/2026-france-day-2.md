@@ -4,7 +4,7 @@ date: 2026-09-01
 photo_folder: Day-2
 ---
 
-Your write-up...
+Your write-up........
 
 {% assign folder = '/assets/img/2026-france/' | append: page.photo_folder %}
 {% for image in site.static_files %}
