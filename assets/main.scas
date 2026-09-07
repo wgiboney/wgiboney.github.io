@@ -1,0 +1,25 @@
+---
+---
+
+@import "minima";
+
+/* ===== Your custom styles below ===== */
+
+body {
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5rem 0;
+}
+
+/* Make text even more readable on phones */
+@media (max-width: 600px) {
+  body {
+    font-size: 18px;
+  }
+}
