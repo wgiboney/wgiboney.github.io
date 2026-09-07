@@ -1,7 +1,7 @@
 ---
 title: "Day 2 – Paris On our own"
 date: 2026-09-01
-photo_folder: Day-02
+photo_folder: Day-2
 ---
 
 Your write-up...
