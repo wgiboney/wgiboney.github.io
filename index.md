@@ -5,8 +5,6 @@ title: Home
 
 <h1>Welcome</h1>
 
-<p>Hi, I'm [Your Name]. This is where I write about [topic] and document trips I've taken.</p>
-
 <h2>Latest Posts</h2>
 <ul>
 {% for post in site.posts limit:15 %}
