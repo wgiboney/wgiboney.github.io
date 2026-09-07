@@ -1,5 +1,5 @@
 ---
-title: "France"
+title: "France Day 2"
 date: 2026-09-01
 location: "Paris, France"
 ---
