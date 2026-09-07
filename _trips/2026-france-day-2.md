@@ -10,7 +10,7 @@ photo_folder: Day-02
 
 ## Day 2 – Versailles (not like the Missouri town) 
 
-and meeting up with ed 
+and meeting up with ed ...
 
 
 {% assign france_images = site.static_files | where_exp: "image", "image.path contains 'assets/img/2026-france'" %}
