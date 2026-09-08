@@ -14,7 +14,6 @@ text about the day
 - billet 1
 - bullet 2
 
-[Video of us outside the louvre](https://youtube.com/shorts/alGdww2k9Cg?is=IRszzi1hSIFfp6D-)
 
 
 {% assign folder = '/assets/img/2026-france/' | append: page.photo_folder %}
