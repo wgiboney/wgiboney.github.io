@@ -1,5 +1,5 @@
 ---
-title: "France Day 4"
+title: "France Day 4 - Louvre and more walking"
 date: 2026-08-31
 location: "Paris, France"
 photo_folder: day-04
