@@ -1,6 +1,7 @@
 ---
 title: "France Day 2 – Versailles Palace and meeting our travel group"
 date: 2026-09-01
+location: "Paris, France"
 photo_folder: Day-2
 ---
 
