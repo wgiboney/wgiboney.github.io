@@ -1,18 +1,22 @@
 ---
-title: "France Day 3"
-date: 2026-08-31
+title: "France Day 3 - Notre Dame, KC BBQ, St Chapelle"
+date: 2026-09-02
 location: "Paris, France"
 photo_folder: day-03
 ---
 
-## Day 3 – Paris On our own
+## Day 3 – Notre Dame
+- Notre Dame
+- KC BBQ
+- St Chapelle 
+- Latin Quarter 
+- Midevil Museum 
+
 
  
 
 text about the day 
 
-- billet 1
-- bullet 2
 
 
 
