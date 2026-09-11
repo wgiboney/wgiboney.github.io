@@ -1,12 +1,17 @@
 ---
-title: "Day 2 – Paris On our own"
+title: "Day 2 – Versailles Palace and meeting our travel group"
 date: 2026-09-01
 photo_folder: Day-2
 ---
 
-## Your write-up.....
+## Taking the subway out to Versailes.
+We took the subway out to Versailes.  Its a lot different from the town in Missouri!
+Subway was kind of hectic and busy.  Our train pulled up to our stop and was packed!  We stepped in and joined the crowd.  It was neat how so many people used the subway.
 
-## test
+
+## Meeting our travel group
+
+- link to hotel room
 
 {% assign folder = '/assets/img/2026-france/' | append: page.photo_folder %}
 
