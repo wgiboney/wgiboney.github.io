@@ -1,18 +1,13 @@
 ---
 title: "France Day 4 - Louvre and more walking"
-date: 2026-08-31
+date: 2026-09-03
 location: "Paris, France"
 photo_folder: day-04
 ---
 
-## Day 4 - Paris On our own
-
- 
-
-text about the day 
-
-- billet 1
-- bullet 2
+## Day 4 - Neighborhood tour 
+- Louvre 
+- more walking
 
 [Video of us outside the louvre](https://youtube.com/shorts/alGdww2k9Cg?is=IRszzi1hSIFfp6D-)
 
