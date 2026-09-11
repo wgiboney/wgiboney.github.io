@@ -1,5 +1,5 @@
 ---
-title: "Day 2 – Versailles Palace and meeting our travel group"
+title: "France Day 2 – Versailles Palace and meeting our travel group"
 date: 2026-09-01
 photo_folder: Day-2
 ---
