@@ -8,7 +8,7 @@ photo_folder: day-08
 
 ## Day 8
 
- 
+[Our last hotel room on Mt St Michel](https://youtube.com/shorts/dqeGrTitSdE)
 
 text about the day 
 

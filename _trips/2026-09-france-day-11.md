@@ -7,6 +7,9 @@ photo_folder: day-11
 
 ## Day 11
 
+ 
+
+[Our last hotel room in paris](https://youtube.com/shorts/xdHOLyea6sY)
 
 
 
