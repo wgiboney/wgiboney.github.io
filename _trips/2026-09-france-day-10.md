@@ -1,11 +1,11 @@
 ---
-title: "France Day 7 - Chenonceau and Amboise"
-date: 2026-09-06
-location: "Amboise, France"
-photo_folder: day-07
+title: "France Day 10 - Normandy's D-Day Beaches    "
+date: 2026-09-09
+location: "Bayeu, France"
+photo_folder: day-10
 ---
 
-## Day 7
+## Day 8
 
  
 

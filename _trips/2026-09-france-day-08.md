@@ -1,11 +1,12 @@
 ---
-title: "France Day 7 - Chenonceau and Amboise"
-date: 2026-09-06
-location: "Amboise, France"
-photo_folder: day-07
+title: "France Day 8 - Brittany and Mont St-Michel"
+date: 2026-09-07
+
+location: "Mont St-Michel, France"
+photo_folder: day-08
 ---
 
-## Day 7
+## Day 8
 
  
 

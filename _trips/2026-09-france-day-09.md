@@ -1,11 +1,11 @@
 ---
-title: "France Day 7 - Chenonceau and Amboise"
-date: 2026-09-06
-location: "Amboise, France"
-photo_folder: day-07
+title: "France Day 9 -  A Taste of Normandy"
+date: 2026-09-08
+location: "Mont St-Michel, France"
+photo_folder: day-09
 ---
 
-## Day 7
+## Day 8
 
  
 
