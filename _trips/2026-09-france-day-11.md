@@ -24,7 +24,7 @@ photo_folder: day-11
 {% if image.extname == '.jpeg' or image.extname == '.jpg' or image.extname == '.png' or image.extname == '.webp' %}
 
 {% assign basename = image.name | split: '.' | first %}
-{% assign thumb_path = folder | append: basename | append: '-thumb' | append: image.extname %}
+{% assign thumb_path = folder |append: '/' | append: basename | append: '-thumb' | append: image.extname %}
 
 <p>
 <a href="{{ image.path }}">
