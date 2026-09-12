@@ -1,25 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/main.scss' | relative_url }}?v={{ site.time | date: '%s' }}">
-</head>
-<body>
-<header>
-    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-    <nav>
-        <a href="{{ '/' | relative_url }}">Home</a>
-    </nav>
-</header>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<main>
-    {{ content }}
+{%- include head.html -%}
+
+<body>
+
+{%- include header.html -%}
+
+<main class="page-content" aria-label="Content">
+    <div class="wrapper">
+        {{ content }}
+    </div>
 </main>
 
-<footer>
-    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
-</footer>
+{%- include footer.html -%}
+
 </body>
+
 </html>
