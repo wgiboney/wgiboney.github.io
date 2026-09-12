@@ -1,5 +1,5 @@
 ---
-title: "France Day 11 - Monets Garden and return to Paris@
+title: "France Day 11 - Monets Garden and return to Paris"
 date: 2026-09-10
 location: "Giverny and Paris, France"
 photo_folder: day-11
