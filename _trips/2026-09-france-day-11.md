@@ -7,12 +7,9 @@ photo_folder: day-11
 
 ## Day 11
 
- 
 
-text about the day 
 
-- billet 1
-- bullet 2
+
 
 
 
@@ -22,12 +19,11 @@ text about the day
 {% for image in france_images %}
 {% if image.extname == '.jpeg' or image.extname == '.jpg' or image.extname == '.png' or image.extname == '.webp' %}
 <p>
-  <a href="{{ image.path }}">
-    <img src="{{ image.path }}" 
-         alt="{{ image.name | split: '.' | first }}" 
-         style="max-width: 100%; height: auto; display: block; margin: 1rem 0;">
-  </a>
+<a href="{{ image.path }}">
+<img src="{{ image.path }}"
+alt="{{ image.name | split: '.' | first }}"
+style="max-width: 400px; width: 100%; height: auto; display: block; margin: 1rem 0;">
+</a>
 </p>
 {% endif %}
 {% endfor %}
-
