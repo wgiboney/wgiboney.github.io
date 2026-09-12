@@ -16,7 +16,7 @@ We met the rest of our tour group later that night and got settled into our hote
 It’s a small hotel and the rooms are even smaller!  
 Just ask Bethany, but really nice.
 
-- billet 1
+- bullet 1
 - bullet 2
 
 [Video of us outside the louvre](https://youtube.com/shorts/alGdww2k9Cg?is=IRszzi1hSIFfp6D-)
