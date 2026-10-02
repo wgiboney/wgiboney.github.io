@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "France Day 1 - Arc de Triumph amd walking around"
 date: 2026-08-31
 location: "Paris, France"
