@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "France Day 5 - Bus ride, midevil construction"
 date: 2026-09-05
 location: "Bourges, France"
@@ -7,12 +8,11 @@ photo_folder: day-05
 
 ## Day 5
 
- 
 
-text about the day 
 
-- billet 1
-- bullet 2
+### What do I remember about the day....
+- 
+
 
 
 {% assign folder = '/assets/img/2026-france/' | append: page.photo_folder %}

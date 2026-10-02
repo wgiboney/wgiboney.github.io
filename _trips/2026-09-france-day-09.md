@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "France Day 9 -  A Taste of Normandy"
 date: 2026-09-08
 location: "Mont St-Michel, France"
@@ -7,12 +8,11 @@ photo_folder: day-09
 
 ## Day 8
 
- 
 
-text about the day 
 
-- billet 1
-- bullet 2
+### What do I remember about the day....
+- 
+
 
 
 

@@ -10,17 +10,18 @@ photo_folder: day-01
 
  
 
-We landed super early in the morning and explored a bit of Paris before we could check into our hotel.  
-We walked to the Arc De Triomphe.  It is a large monument built by Napoleon to celebrate and honor fallen soldiers.  It is a massive round about with about 6 lanes of traffic moving around it.  Really cool to see on day 1.  
-We wandered a bit and crashed pretty early because of the jet lag.  
-We met the rest of our tour group later that night and got settled into our hotel.  
-It’s a small hotel and the rooms are even smaller!  
-Just ask Bethany, but really nice.
+We landed super early in the morning and explored a bit of Paris before we could check into our hotel. We walked to the Arc De Triomphe.  It is a large monument built by Napoleon to celebrate and honor fallen soldiers.  It is a massive round about with about 6 lanes of traffic moving around it.  Really cool to see on day 1.  
 
-- bullet 1
-- bullet 2
+We wandered a bit and crashed pretty early because of the jet lag. We met the rest of our tour group later that night and got settled into our hotel.  
 
-[Video of us outside the louvre](https://youtube.com/shorts/alGdww2k9Cg?is=IRszzi1hSIFfp6D-)
+It’s a small hotel and the rooms are even smaller! Just ask Bethany, but really nice.
+
+
+### What do I remember about the day....
+- Really tired from the flight
+- Paris was really walkable
+- Walked through large parks where everyone was out eating lunch and reading books
+
 
 
 {% assign folder = '/assets/img/2026-france/' | append: page.photo_folder %}
