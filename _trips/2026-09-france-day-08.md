@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "France Day 8 - Brittany and Mont St-Michel"
 date: 2026-09-07
 
@@ -10,10 +11,9 @@ photo_folder: day-08
 
 [Our last hotel room on Mt St Michel](https://youtube.com/shorts/dqeGrTitSdE)
 
-text about the day 
+### What do I remember about the day....
+- 
 
-- billet 1
-- bullet 2
 
 
 

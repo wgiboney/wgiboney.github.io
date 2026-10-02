@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "France Day 2 – Versailles Palace and meeting our travel group"
 date: 2026-09-01
 location: "Paris, France"
@@ -10,9 +11,17 @@ We took the subway out to Versailes.  Its a lot different from the town in Misso
 Subway was kind of hectic and busy.  Our train pulled up to our stop and was packed!  We stepped in and joined the crowd.  It was neat how so many people used the subway.
 
 
+Hall of Mirrors - Versailles Palace 
+https://youtube.com/shorts/DftOMX3nA98?feature=share
+
 ## Meeting our travel group
 
 - link to hotel room
+
+
+### What do I remember about the day....
+- 
+
 
 {% assign folder = '/assets/img/2026-france/' | append: page.photo_folder %}
 {% assign france_images = site.static_files | where_exp: "image", "image.path contains folder" %}

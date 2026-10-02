@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "France Day 4 - Louvre and more walking"
 date: 2026-09-03
 location: "Paris, France"
@@ -10,6 +11,12 @@ photo_folder: day-04
 - more walking
 
 [Video of us outside the louvre](https://youtube.com/shorts/alGdww2k9Cg?is=IRszzi1hSIFfp6D-)
+
+https://youtu.be/O-iNs-6GSxo
+
+
+### What do I remember about the day....
+- 
 
 
 {% assign folder = '/assets/img/2026-france/' | append: page.photo_folder %}

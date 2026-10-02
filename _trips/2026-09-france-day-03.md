@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "France Day 3 - Notre Dame, KC BBQ, St Chapelle"
 date: 2026-09-02
 location: "Paris, France"
@@ -13,9 +14,11 @@ photo_folder: day-03
 - Midevil Museum 
 
 
- 
 
-text about the day 
+
+### What do I remember about the day....
+- 
+
 
 
 

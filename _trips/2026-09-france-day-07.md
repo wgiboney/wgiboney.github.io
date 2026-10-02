@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "France Day 7 - Chenonceau and Amboise"
 date: 2026-09-06
 location: "Amboise, France"
@@ -7,12 +8,11 @@ photo_folder: day-07
 
 ## Day 7
 
- 
 
-text about the day 
 
-- billet 1
-- bullet 2
+### What do I remember about the day....
+- 
+
 
 
 

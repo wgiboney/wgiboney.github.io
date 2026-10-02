@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "France Day 10 - Normandy's D-Day Beaches    "
 date: 2026-09-09
 location: "Bayeu, France"
@@ -7,12 +8,11 @@ photo_folder: day-10
 
 ## Day 8
 
- 
 
-text about the day 
 
-- billet 1
-- bullet 2
+### What do I remember about the day....
+- 
+
 
 
 
