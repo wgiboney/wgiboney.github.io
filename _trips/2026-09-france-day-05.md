@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "France Day 5 - Bus ride, midevil construction"
-date: 2026-09-05
+date: 2026-09-04
 location: "Bourges, France"
 photo_folder: day-05
 ---
@@ -11,7 +11,7 @@ photo_folder: day-05
 
 
 ### What do I remember about the day....
-- 
+- Bourges - Jacques Ceur -"To the brave hearts nothing is impossible”
 
 
 

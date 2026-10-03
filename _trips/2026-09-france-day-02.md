@@ -6,21 +6,28 @@ location: "Paris, France"
 photo_folder: day-02
 ---
 
-## Taking the subway out to Versailes.
-We took the subway out to Versailes.  Its a lot different from the town in Missouri!
+## Taking the subway out to Versailles.
+We took the subway out to Versailles.  Its a lot different from the town in Missouri!
+
 Subway was kind of hectic and busy.  Our train pulled up to our stop and was packed!  We stepped in and joined the crowd.  It was neat how so many people used the subway.
 
+Met up with our traveling group.  Wanted us to introduce our selves as the 'Traveling Ramboneys'!  We'll save that gem for the next tour group :)
 
-Hall of Mirrors - Versailles Palace 
-https://youtube.com/shorts/DftOMX3nA98?feature=share
+
+[Hall of Mirrors - Versailles Palace](https://youtube.com/shorts/DftOMX3nA98)
+
 
 ## Meeting our travel group
-
 - link to hotel room
 
 
 ### What do I remember about the day....
-- 
+- Subway ride; so cool how everyone packed in and politely; tons of people biking to work
+- Train exchange on the way to Versailles
+- Cool to meet up with Ed
+- The Versailles gardens were very impressive!
+- Had a great french cheeseburger and beer in Versailles
+ 
 
 
 {% assign folder = '/assets/img/2026-france/' | append: page.photo_folder %}

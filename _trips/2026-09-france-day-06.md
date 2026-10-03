@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "France Day 6 - Bus ride, lorie valley, wine tasting, chateaus"
-date: 2026-08-31
-location: "Paris, France"
+date: 2026-09-05
+location: ", France"
 photo_folder: day-06
 ---
 
@@ -11,7 +11,7 @@ photo_folder: day-06
 
 
 ### What do I remember about the day....
-- 
+
 
 
 
