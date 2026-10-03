@@ -9,7 +9,7 @@ photo_folder: day-03
 ## Day 3 – Notre Dame
 - Notre Dame
 - KC BBQ
-- St Chapelle 
+- St Chapelle (not the comedian)
 - Latin Quarter 
 - Midevil Museum 
 
@@ -17,7 +17,10 @@ photo_folder: day-03
 
 
 ### What do I remember about the day....
-- 
+- I now know what a buttress is
+- Meeting up with Ed / Russ / James for dinner
+- Another fun subway ride with our group
+- lots of steps
 
 
 
