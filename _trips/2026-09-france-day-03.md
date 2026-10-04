@@ -5,13 +5,15 @@ date: 2026-09-02
 location: "Paris, France"
 photo_folder: day-03
 ---
+Started the day with another subway ride to Notre Dam Catehdral.  Very Impressive!  It was right on the the river.  Our tour guide, Marie, was aweseome she added so much detail to the trip.  For instance I now know what a flying butterss is.  Also she talked about how the church changed through the french revoltion (kinda crazy to think about)
 
-## Day 3 – Notre Dame
-- Notre Dame
-- KC BBQ
-- St Chapelle (not the comedian)
-- Latin Quarter 
-- Midevil Museum 
+After Notre Dam, we walked to another smaller church.  St Chapelle.  It was included in a complex of buildings that were used for the city of paris.  Think court house with this beautiful stained glass church inside of it.  Some of the pics below are from there.
+
+I had on my list to check out the 'KC BBQ' place in the gothic quarter.  It wasnt really that good, but fun to see a smoker, hickory wood and some chiefs gear there!
+
+We ended our sightseeing day by visiting a medical museum.  It had remnants of ancient Roman baths.  
+
+We then met up with Ed, Russ and James for dinner.  They just moved there from KC.  
 
 
 

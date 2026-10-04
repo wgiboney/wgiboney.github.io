@@ -9,16 +9,19 @@ photo_folder: day-02
 ## Taking the subway out to Versailles.
 We took the subway out to Versailles.  Its a lot different from the town in Missouri!
 
+Met up with my buddy Ed.  He just moved to France from KC the month before.  
+
 Subway was kind of hectic and busy.  Our train pulled up to our stop and was packed!  We stepped in and joined the crowd.  It was neat how so many people used the subway.
 
 Met up with our traveling group.  Wanted us to introduce our selves as the 'Traveling Ramboneys'!  We'll save that gem for the next tour group :)
 
 
+[Hotel Room in Paris](https://youtube.com/shorts/7mnkoLI1Jck)
+
 [Hall of Mirrors - Versailles Palace](https://youtube.com/shorts/DftOMX3nA98)
 
+[Versailles Gardens](https://youtu.be/7lbJPNSGs4Q)
 
-## Meeting our travel group
-- link to hotel room
 
 
 ### What do I remember about the day....
