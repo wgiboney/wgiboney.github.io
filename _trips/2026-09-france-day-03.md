@@ -11,7 +11,7 @@ After Notre Dam, we walked to another smaller church.  St Chapelle.  It was incl
 
 I had on my list to check out the 'KC BBQ' place in the gothic quarter.  It wasnt really that good, but fun to see a smoker, hickory wood and some chiefs gear there!
 
-We ended our sightseeing day by visiting a medical museum.  It had remnants of ancient Roman baths.  
+We ended our sightseeing day by visiting a medieval museum.  It had remnants of ancient Roman baths.  
 
 We then met up with Ed, Russ and James for dinner.  They just moved there from KC.  
 
